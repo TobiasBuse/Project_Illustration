@@ -1,0 +1,145 @@
+body {
+    margin: 0;
+    padding: 0;
+    margin-left: 5%;
+}
+
+img {
+    width: 30%; 
+}
+
+header {
+    margin-left: 75%;
+}
+
+header nav ul li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 5%;
+}
+
+h1 {
+    font-size: 3em;
+    font-family: 'Merrieweather';
+
+}
+
+h3 {
+    font-size: 14px; 
+    font-family: 'Merrieweather'; 
+    color: grey; 
+    width: 30%;
+    line-height: 20px;   
+}
+
+
+
+.button1 {
+    background-color: black;
+    display: inline-block;
+    padding: 1%;
+    color: white; 
+    border: 2px solid none;
+    border-radius: 5%; 
+    text-decoration: none;
+}
+
+
+
+.button2 {
+    background-color: white;
+    display: inline-block;
+    padding: 1%;
+    color:black; 
+    border: 2px solid whitesmoke;
+    border-radius: 5%; 
+    text-decoration: none;
+}
+
+.membership {
+    text-align: center;
+    padding: 2% 0%;
+    margin: 2% 42%; 
+    background: #F5FBFE;
+}
+
+
+.button3 {
+    background-color: #24bff2;
+    display: inline-block;
+    padding: 4% 15%;
+    color: white; 
+    border: 2px solid none;
+    border-radius: 5%; 
+    text-decoration: none;
+}
+
+
+
+
+.illustration1{
+    background: url(../img/illustration1.gif) right/contain no-repeat;
+    /* padding: 10vh 0;  */
+    height: 80vh;
+    margin-bottom: 10%;
+}
+
+
+
+.left {
+    padding: 6% 0;
+    width: 100%; 
+    
+
+}
+
+.illustration2{
+    background: url(../img/illustration2.png) left/contain no-repeat;
+    height: 80vh; 
+    margin-bottom: 10%;
+}
+
+
+.right{
+    padding: 6% 60%;
+    width: 100%; 
+}
+
+
+.illustration3{
+    background: url(../img/illustration3.png) right/contain no-repeat;
+    /* padding: 10vh 5%;  */
+    height: 80vh;
+    margin-bottom: 5%;
+}
+
+
+
+.center {
+    text-align: center;
+    padding-top: 7.5%;
+} 
+
+.center2 {
+    margin: 0 auto; 
+}
+
+
+.alignsiximages {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.alignsiximages2 {
+    padding-right: 5%;
+
+}
+
+.alignsiximages3 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+
+
